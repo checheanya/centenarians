@@ -1,0 +1,8 @@
+,ciao,necs_cent_cont,necs_cent_off,swiss_cent_geriatric,swiss_cent_healthy,swiss_geriatric_healthy,ukbb
+ciao,13,2,2,5,2,1,4
+necs_cent_cont,2,4,4,1,0,0,2
+necs_cent_off,2,4,4,1,0,0,2
+swiss_cent_geriatric,5,1,1,22,2,1,0
+swiss_cent_healthy,2,0,0,2,2,1,0
+swiss_geriatric_healthy,1,0,0,1,1,1,0
+ukbb,4,2,2,0,0,0,7
